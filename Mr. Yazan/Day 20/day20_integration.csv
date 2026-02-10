@@ -1,0 +1,5 @@
+pages_viewed,session_minutes,basket_value,city,device_type
+5,2.5,30.0,NY,mobile
+10,4.0,55.0,SF,desktop
+2,1.0,15.0,LA,mobile
+8,3.0,80.0,NY,desktop
