@@ -1,0 +1,7 @@
+age,income,city,churned
+25,50000,NY,0
+N/A,60000,SF,1
+40,,LA,0
+33,unknown,,1
+?,80000,NY,0
+29,72000,SF,0
